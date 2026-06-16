@@ -17,3 +17,5 @@ prev/
 # Local document exports
 *.docx
 Metaverse Research Landscape Evolution.pdf
+# Local archival research reports
+archive/*.pdf
