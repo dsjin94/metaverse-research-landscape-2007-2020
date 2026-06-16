@@ -13,3 +13,4 @@ Thumbs.db
 # Raw Web of Science data must remain private
 data/raw/*
 !data/raw/.gitkeep
+prev/
