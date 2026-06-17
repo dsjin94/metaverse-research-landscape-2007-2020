@@ -2,7 +2,7 @@
 
 A reproducible research-visualization project showing how Metaverse-related semantic structures evolved from 2007 to 2020.
 
-The project connects archived research reports, yearly semantic-network figures, reproducible Python scripts, and two public video summaries.
+The project is grounded in locally retained analytical reports and connects yearly semantic-network figures, reproducible Python scripts, and two public video summaries.
 
 ## Project Overview
 
@@ -90,8 +90,6 @@ metaverse-research-landscape-2007-2020/
 ├── pyproject.toml
 ├── rename_metaverse_figures.ps1
 ├── archive/
-│   ├── Metaverse_Network_Analysis_Trend_2007_2022.pdf
-│   ├── metaverse-trend-report-2023.pdf
 │   └── README.md
 ├── data/
 │   ├── raw/
@@ -210,7 +208,7 @@ The videos therefore represent a structural transition in the research landscape
 
 The public repository contains:
 
-* archived analytical reports
+* archive and data-availability documentation
 * reproducible Python scripts
 * yearly semantic-network figures
 * final MP4 videos
@@ -218,11 +216,12 @@ The public repository contains:
 
 The repository does not contain:
 
+* the original analytical reports retained in the local archive
 * the underlying licensed Web of Science records
 * private R data objects
 * restricted intermediate bibliographic datasets
 
-The public artifacts are aggregated research outputs, figures, documentation, and presentation code derived from the original analysis.
+The public artifacts are derived and aggregated research outputs, figures, videos, documentation, and presentation code produced from the original analysis.
 
 ## Project Scope
 
@@ -261,11 +260,11 @@ Series statement:
 ## Research-to-Publication Structure
 
 ```text
-Archived research reports
+Locally retained research reports
         ↓
 Analytical workflow
         ↓
-Yearly semantic-network figures
+Derived yearly semantic-network figures
         ↓
 Reproducible Python scripts
         ↓
