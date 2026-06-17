@@ -34,21 +34,13 @@ Together, the two periods show a transition from immersive virtual-world applica
 
 ## Research Foundation
 
-The visualization project is derived from a broader 2023 study of Metaverse-related research indexed in Web of Science.
+This visualization project is derived from a broader Metaverse research study based on Web of Science records.
 
-The full study analyzed 128,858 records associated with Metaverse-related concepts and examined:
+The original analytical reports and restricted research objects are retained in a local archive and are not included in this public repository because they contain or depend on licensed Web of Science-derived materials.
 
-* annual publication trends
-* country-level research distribution
-* disciplinary and research-field patterns
-* author-keyword frequencies
-* concept correlations
-* semantic-network structures
-* yearly changes in the Metaverse research landscape
+The public repository provides reproducible presentation scripts, derived semantic-network figures, videos, and documentation without publishing the underlying bibliographic records or private analytical objects.
 
-The broader research period extends through 2022. This repository focuses specifically on **2007–2020**, the period selected for the two-part public visualization series.
-
-See [`archive/README.md`](archive/README.md) for details about the reports and data-availability policy.
+See [`archive/README.md`](archive/README.md) for the archive and data-availability policy.
 
 ## Purpose
 
