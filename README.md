@@ -48,11 +48,6 @@ The full study analyzed 128,858 records associated with Metaverse-related concep
 
 The broader research period extends through 2022. This repository focuses specifically on **2007–2020**, the period selected for the two-part public visualization series.
 
-The archived research reports are available in:
-
-* [`archive/Metaverse_Network_Analysis_Trend_2007_2022.pdf`](archive/Metaverse_Network_Analysis_Trend_2007_2022.pdf)
-* [`archive/metaverse-trend-report-2023.pdf`](archive/metaverse-trend-report-2023.pdf)
-
 See [`archive/README.md`](archive/README.md) for details about the reports and data-availability policy.
 
 ## Purpose
