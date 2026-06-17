@@ -5,6 +5,7 @@ __pycache__/
 .env
 .DS_Store
 Thumbs.db
+
 # Private or licensed research data
 *.rds
 *.RData
@@ -14,9 +15,13 @@ Thumbs.db
 data/raw/*
 !data/raw/.gitkeep
 prev/
+
 # Local document exports
 *.docx
-Metaverse Research Landscape Evolution.pdf
-# Local archival research reports
+Metaverse Research Landscape Evolution*.pdf
+Research Foundation.pdf
+
+# Restricted local archive
 archive/*.doc
+archive/*.docx
 archive/*.pdf
