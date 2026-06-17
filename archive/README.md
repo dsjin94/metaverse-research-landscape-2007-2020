@@ -6,8 +6,6 @@ This directory contains archival research reports that provide the analytical ba
 
 ### Metaverse Network Analysis: Trend, 2007–2022
 
-[`Metaverse_Network_Analysis_Trend_2007_2022.pdf`](Metaverse_Network_Analysis_Trend_2007_2022.pdf)
-
 This document preserves the R-based analytical workflow used to generate yearly semantic-network visualizations. It includes:
 
 * annual network parameters and thresholds;
@@ -17,8 +15,6 @@ This document preserves the R-based analytical workflow used to generate yearly 
 * the analytical code and workflow underlying the visual outputs.
 
 ### Metaverse Trend Report 2023
-
-[`metaverse-trend-report-2023.pdf`](metaverse-trend-report-2023.pdf)
 
 This report provides the broader research context for the project. It analyzes 128,858 Web of Science records associated with Metaverse-related concepts and examines:
 
